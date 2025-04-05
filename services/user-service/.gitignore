@@ -33,5 +33,5 @@ build/
 .vscode/
 
 
-### Customer Service ###
+### User Service ###
 .env
